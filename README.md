@@ -347,3 +347,15 @@ supermesh时电路中不包含电流源的闭合回路
 ![image.png](image%2031.png)
 
 [sfzx1.yangtzeu.edu.cn](https://sfzx1.yangtzeu.edu.cn/__local/C/0F/95/65162EF52C931A4B606C21BA7ED_44510C87_2BBD78.pdf?e=.pdf)
+
+电路分析课程：[电路 23 正弦稳态分析-节点电压法与网状电流法_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV13BifYUEUt?spm_id_from=333.788.videopod.sections&vd_source=7309e1e11b1383dd33b5155a108b8ee5)
+
+[电路 27 拉普拉斯变换-1_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1HECPYbEJZ/?spm_id_from=333.1387.favlist.content.click&vd_source=7309e1e11b1383dd33b5155a108b8ee5)
+
+
+
+数电基础：https://www.bilibili.com/video/BV11441167SN/?spm_id_from=333.1387.favlist.content.click
+
+https://www.bilibili.com/video/BV1A3411z7Mf/?spm_id_from=333.1387.favlist.content.click
+
+
